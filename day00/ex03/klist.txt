@@ -1,0 +1,5 @@
+Credentials cache: API:17757
+        Principal: dbud@42.FR
+
+  Issued                Expires               Principal
+Jul  4 14:21:48 2016  Jul 11 14:21:39 2016  krbtgt/42.FR@42.FR
